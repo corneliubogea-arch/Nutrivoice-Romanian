@@ -1,0 +1,7 @@
+{
+  "name": "NutriVoice v3 Romanian Diet Advisor",
+  "description": "A conversational AI culinary and diet advisor that speaks Romanian, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
